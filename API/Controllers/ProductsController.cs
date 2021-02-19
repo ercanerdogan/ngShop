@@ -32,7 +32,7 @@ namespace API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Product>> GetProduct(int id)
         {
-            var product = await _repo.GetByIdAsync(id);
+            var product = await _repo.GetProductByIdAsync(id);
 
             return product;
 
