@@ -4,8 +4,11 @@ Angular e-commerce Application
 Here are some of the things you will learn about in this repository:
 
 -Setting up the developer environment.
+
 -Creating a client side front-end Angular UI for the store using the Angular CLI.
+
 -Learn how to use the Repository, Unit of Work and specification pattern in .net core.
+
 -Using multiple DbContext as context boundaries.
 -Using ASP.NET Identity for login and registration.
 -Using the angular modules to create lazy loaded routes.
